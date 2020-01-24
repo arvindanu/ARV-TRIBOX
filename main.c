@@ -1,5 +1,7 @@
 /*for ios*/
 
+/*on development*/
+
 #include "app.h"
 
 int main(void) {
